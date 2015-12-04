@@ -18,7 +18,7 @@ package.json配置：<br/>
      "react": "^0.13.3",<br/>
     "jsx-loader": "^0.13.2"<br/>
   }<br/>
-  为项目目录下使用webpack可通过编译。<br/>
+  cd到项目目录下使用webpack可通过编译。<br/>
   
   1. 运行前提：windows64 已安装了nodejs npm，webpack webpack-dev-server在全局安装（npm install -global webpack webpack-dev-server）<br/>
   cd 到项目目录下：输入webpack<br/>
