@@ -2,9 +2,6 @@
 import React from 'react';
 import Hello from './component.js';
 
-main();
+React.render(<Hello />, document.getElementById('app'));
 
-function main() {
-    React.render(<Hello />, document.getElementById('app'));
-}
 
